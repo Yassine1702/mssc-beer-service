@@ -1,0 +1,1 @@
+1- when adding jpa dependency, don't forget to add database dependency otherwise you'll have an error when testing
